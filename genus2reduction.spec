@@ -35,6 +35,7 @@ conductor of J(C) at p.
 %patch0
 cp -p %{SOURCE1} .
 cp -p %{SOURCE2} .
+find . -type f | xargs chmod a+r
 
 %build
 make CC="%{__cc}" CFLAGS="$RPM_OPT_FLAGS -I/usr/include/pari"
