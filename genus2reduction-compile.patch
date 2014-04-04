@@ -32,7 +32,7 @@
 +GEN
 +mppgcd(GEN a, GEN b)
 +{
-+  if (typ(a) != t_INT || typ(b) != t_INT) pari_err(arither1);
++  if (typ(a) != t_INT || typ(b) != t_INT) pari_err(e_TYPE);
 +  return gcdii(a,b);
 +}
  
