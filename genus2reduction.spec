@@ -1,6 +1,6 @@
 Name:           genus2reduction
 Version:        0.3
-Release:        2
+Release:        3
 Summary:        Computes Reductions of Genus 2 Proper Smooth Curves
 Group:          Sciences/Mathematics
 License:        GPLv2
