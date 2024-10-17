@@ -4,7 +4,7 @@ Release:        3
 Summary:        Computes Reductions of Genus 2 Proper Smooth Curves
 Group:          Sciences/Mathematics
 License:        GPLv2
-URL:            http://www.math.u-bordeaux1.fr/~qliu/G2R/
+URL:            https://www.math.u-bordeaux1.fr/~qliu/G2R/
 Source0:        http://www.math.u-bordeaux1.fr/~qliu/G2R/genus2reduction-%{version}.tar.gz
 # License clarification:
 Source1:        genus2reduction.mbox
