@@ -13,6 +13,7 @@ Source2:        genus2reduction-licenseinfo.txt
 # Adapt to pari 2.5
 Patch0:         genus2reduction-compile.patch
 
+BuildRequires:	make
 BuildRequires:  libpari-devel
 
 %description
